@@ -51,3 +51,4 @@ npm install axios --legacy-peer-deps
 npm install selenium-webdriver chromedriver
 npm install -g concurrently
 npm install --save-dev typescript @types/node @types/selenium-webdriver
+npm install weddriver-manger --legacy-peer-deps

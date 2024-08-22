@@ -21,7 +21,7 @@
   "scripts": {
     "start": "concurrently \"npm run start-react\" \"npm run automate-click\"",
     "start-react": "react-scripts start",
-    "automate-click": "echo 'Starting Selenium script...' && tsc && node automateclick.ts"
+    "automate-click": "echo 'Starting Selenium script...' && tsc && node loginclick.ts"
   },
   "eslintConfig": {
     "extends": [
